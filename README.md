@@ -3,7 +3,7 @@
 ### Project Summary:
   "Proof of Concepts" project, highlighting the use cases of different HTML elements.
 ### HTML elements used:
-*Heading elements
+-Heading elements
 *Line break elements
 *Horizontal rule elements
 *Paragraph tags
