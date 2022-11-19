@@ -15,4 +15,4 @@
  - Tables
  - Forms: labels, inputs, textareas
 ### Languages and technologies:
-  HTML5
+ - HTML5
