@@ -16,3 +16,6 @@
  - Forms: labels, inputs, textareas
 ### Languages and technologies:
  - HTML5
+### Purpose:
+This website is designed to be a personal portfolio, displaying information about myself and my work, and serves as a platform for me to experiment with new web development technologies and tools.
+
